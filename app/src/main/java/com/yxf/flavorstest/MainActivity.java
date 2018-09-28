@@ -1,4 +1,4 @@
-package com.hanergy.flavorstest;
+package com.yxf.flavorstest;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

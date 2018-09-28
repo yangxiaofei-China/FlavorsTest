@@ -1,4 +1,4 @@
-package com.hanergy.flavorstest;
+package com.yxf.flavorstest;
 
 import org.junit.Test;
 

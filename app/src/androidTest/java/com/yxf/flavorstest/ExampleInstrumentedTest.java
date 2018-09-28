@@ -1,4 +1,4 @@
-package com.hanergy.flavorstest;
+package com.yxf.flavorstest;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.hanergy.flavorstest", appContext.getPackageName());
+        assertEquals("com.yxf.flavorstest", appContext.getPackageName());
     }
 }

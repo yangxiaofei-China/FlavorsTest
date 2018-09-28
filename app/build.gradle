@@ -3,7 +3,7 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 27
     defaultConfig {
-        applicationId "com.hanergy.flavorstest"
+        applicationId "com.yxf.flavorstest"
         minSdkVersion 15
         targetSdkVersion 27
         versionCode 1
@@ -19,7 +19,7 @@ android {
     }
     productFlavors {
         solarfac{//自定义flavor1的参数
-//            applicationId "com.hanergy.flavor1"
+//            applicationId "com.yxf.flavor1"
 //            minSdkVersion 15
 //            targetSdkVersion 25
 //            versionCode 1

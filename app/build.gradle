@@ -19,11 +19,11 @@ android {
     }
     productFlavors {
         solarfac{//自定义flavor1的参数
-//            applicationId "com.yxf.flavor1"
-//            minSdkVersion 15
-//            targetSdkVersion 25
-//            versionCode 1
-//            versionName "1.0"
+            applicationId "com.yxf.flavor1"
+            minSdkVersion 15
+            targetSdkVersion 27
+            versionCode 1
+            versionName "1.0"
         }
         hanwa{
             applicationIdSuffix ".hanwa"
